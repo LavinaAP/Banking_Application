@@ -1,1 +1,1 @@
-# Banking_Application
+This project is a simple banking application built using Spring Boot for the backend, JPA (Java Persistence API) for data management, MySQL Workbench for database design and interaction, and Postman for API testing. The application allows users to perform basic banking operations such as depositing money, withdrawing funds, and listing all accounts.
